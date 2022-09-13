@@ -1,0 +1,53 @@
+h1,
+h2 {
+  font-size: 1.2rem;
+}
+.lista {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  flex-wrap: wrap;
+  color: white;
+  background: brown;
+  border-radius: 5px;
+}
+.menu {
+  background-color: black;
+}
+.titulo {
+  color: white;
+  text-align: center;
+}
+.radio {
+  color: white;
+  font-size: 1.75rem;
+}
+.botaovoltar {
+  margin-bottom: 20px;
+  text-decoration: none;
+  content: 16px 32px;
+  padding: 14px;
+  font-size: 18px;
+  color: black;
+  background-color: yellow;
+  border-radius: 4px;
+  height: 64px;
+  width: 72px;
+}
+.anuncio-rodape {
+  color: white;
+}
+nav a {
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  margin-left: 10px;
+  text-decoration: none;
+  content: 16px 32px;
+  padding: 14px;
+  font-size: 18px;
+  color: black;
+  background-color: yellow;
+  border-radius: 4px;
+  height: 64px;
+  width: 72px;
+}
